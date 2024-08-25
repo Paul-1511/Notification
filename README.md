@@ -1,5 +1,5 @@
 ## Autor
-Pablo Méndez - Universidad del Valle
+Pablo Méndez - Universidad del Valle de Guatemala
 
 
 # Notification
