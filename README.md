@@ -1,4 +1,4 @@
-## Autor
+# Autor
 Pablo Méndez - Universidad del Valle de Guatemala
 
 
